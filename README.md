@@ -9,6 +9,16 @@ Built on top of **Adafruit_GFX**, this library provides:
 
 ---
 
+## Preview
+
+![BOE 1.8" Display Demo](assets/screen.jpg)
+
+## Screen photos
+
+![BOE 1.8" Board Front](assets/front.jpg)
+
+![BOE 1.8" Board Back](assets/back.jpg)
+
 ## Dependencies
 
 - [Adafruit GFX Library](https://github.com/adafruit/Adafruit-GFX-Library)
